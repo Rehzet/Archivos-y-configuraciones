@@ -2,11 +2,11 @@
 Este repositorio lo voy a utilizar para guardar mis archivos de configuración y otras cosillas.
 
 ## Configuraciones
-
+###### GPU
  * [Undervolt Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Undervolt.xml)
  * [Overclock Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Overclock.xml)
  * [Minar Rvn Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Minar_rvn.xml)
-&nbsp;
+###### Speedfan
  * [Speedfan configuraciones](https://github.com/Rehzet/Archivos-y-configuraciones/blob/main/Speedfan_cfgs.7z?raw=true)
 ## Otros archivos
 * [Lista de canales de Movistar+](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/Movistar%20Plus.xspf)
