@@ -1,9 +1,10 @@
 # Archivos y configuraciones
 Este repositorio lo voy a utilizar para guardar mis archivos de configuración y otras cosillas.
 
+## Scripts
+###### Linux
+* [Sound Blaster Z Switcher](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/sbz_switcher.sh)
 ## Configuraciones
-###### Linux Scripts
- * [Sound Blaster Z Switcher](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/sbz_switcher.sh)
 ###### GPU
  * [Undervolt Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Undervolt.xml)
  * [Overclock Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Overclock.xml)
