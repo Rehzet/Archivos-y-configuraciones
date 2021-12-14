@@ -27,7 +27,7 @@ output=$(amixer -c $sbz_card cget numid=36 | grep -E -o 'values=[0-9]$')
 # output = 0 ----> Speakers
 # output = 1 ----> Headphones 
 if [ $output == "values=0" ]; then
-	amixer sset 'Master' 14% > /dev/null 2>&1
+	amixer sset 'Master' 12% > /dev/null 2>&1
 	amixer -c $sbz_card cset numid=36 1 > /dev/null 2>&1
 	echo "Switched to Headphones"
 elif [ $output == "values=1" ]; then
