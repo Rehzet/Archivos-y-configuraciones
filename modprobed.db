@@ -113,6 +113,7 @@ nf_log_ipv6
 nf_log_syslog
 nf_reject_ipv4
 nf_reject_ipv6
+nls_ascii
 nls_cp437
 nls_iso8859_1
 nls_utf8
