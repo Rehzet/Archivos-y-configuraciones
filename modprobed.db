@@ -23,6 +23,7 @@ ccm
 cdc_ether
 cec
 cfg80211
+cifs
 cmac
 coretemp
 crc16
@@ -33,10 +34,13 @@ crct10dif_pclmul
 cryptd
 crypto_simd
 crypto_user
+dm_mod
+dm_multipath
 drm
 drm_kms_helper
 ecc
 ecdh_generic
+efivars
 efi_pstore
 ext4
 fat
@@ -51,6 +55,7 @@ hid_logitech_dj
 hid_logitech_hidpp
 hid_pl
 hid_sony
+hwmon_vid
 i2c_algo_bit
 i2c_i801
 i2c_smbus
@@ -74,6 +79,7 @@ iptable_filter
 ip_tables
 ipt_REJECT
 irqbypass
+isofs
 iTCO_vendor_support
 iTCO_wdt
 jbd2
@@ -87,6 +93,7 @@ libarc4
 libcrc32c
 libphy
 libps2
+loop
 lpc_ich
 mac80211
 mac_hid
