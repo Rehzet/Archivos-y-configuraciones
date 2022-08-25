@@ -36,9 +36,9 @@
                 <STATE ID="2" Enabled="True" Value="910"/>
                 <STATE ID="3" Enabled="True" Value="920"/>
                 <STATE ID="4" Enabled="True" Value="930"/>
-                <STATE ID="5" Enabled="True" Value="930"/>
-                <STATE ID="6" Enabled="True" Value="930"/>
-                <STATE ID="7" Enabled="True" Value="930"/>
+                <STATE ID="5" Enabled="True" Value="940"/>
+                <STATE ID="6" Enabled="True" Value="950"/>
+                <STATE ID="7" Enabled="True" Value="960"/>
             </STATES>
         </FEATURE>
         <FEATURE ID="5" Enabled="False">
