@@ -5,12 +5,3 @@ Este repositorio lo voy a utilizar para guardar mis archivos de configuración y
 ###### Linux
 * [Sound Blaster Z Switcher](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/sbz_switcher.sh)
 ## Configuraciones
-###### GPU
- * [Undervolt Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Undervolt.xml)
- * [Overclock Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Overclock.xml)
- * [Minar Rvn Radeon Software RX 570](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/RX570_4GB_Minar_rvn.xml)
-###### Speedfan
- * [Speedfan configuraciones](https://github.com/Rehzet/Archivos-y-configuraciones/blob/main/Speedfan_cfgs.7z?raw=true)
-## Otros archivos
-* [Lista de canales de Movistar+](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/Movistar%20Plus.xspf)
-* [Lista de algunos canales de Movistar+ para Kodi](https://raw.githubusercontent.com/Rehzet/Archivos-y-configuraciones/main/kodi-Movistar.m3u)
