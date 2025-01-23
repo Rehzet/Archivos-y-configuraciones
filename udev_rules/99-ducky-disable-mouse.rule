@@ -1,0 +1,10 @@
+# /etc/udev/rules.d/99-ducky-disable-mouse.rules
+#
+# For more information:
+# https://github.com/denilsonsa/udev-joystick-blacklist
+#
+# Para ver el vendorId e idProduct, ejecutar "lsusb"
+
+# Deshabilitar modo ratón en Ducky One 3 TKL RGB
+SUBSYSTEM=="input", ATTRS{idVendor}=="3233", ATTRS{idProduct}=="8311", ENV{ID_INPUT_JOYSTICK}=="?*", ENV{ID_INPUT_JOYSTICK}="", ENV{ID_INPUT_MOUSE}=="?*", ENV{ID_INPUT_MOUSE}=""
+SUBSYSTEM=="input", ATTRS{idVendor}=="3233", ATTRS{idProduct}=="8311", KERNEL=="event[0-9]*", MODE="0000", ENV{ID_INPUT_JOYSTICK}="", ENV{ID_INPUT_MOUSE}=""
